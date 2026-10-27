@@ -4,7 +4,19 @@
 
 **Course:** PS648 — Data Visualisation for Public Policy  
 **Study period:** FY2020–21 to FY2023–24  
-**Data source:** Vahan Dashboard (MoRTH)
+**Data source:** Vahan Dashboard (MoRTH)  
+**Live Interactive Dashboard:** [`index.html`](index.html) *(Optimized for zero-config Vercel deployment)*
+
+---
+
+## ⚡ Live Web Dashboard (`index.html`)
+
+The project includes an interactive web application ready for Vercel deployment:
+- **Interactive Map Studio**: Full Survey of India boundary (complete Jammu & Kashmir and Ladakh), 4-year timeline playback, and multi-hue `Spectral_r` choropleth scale.
+- **State Deep-Dive Inspector**: Live inspection card with 4-year adoption trajectory, volume breakdowns, and verified gazette policy details.
+- **Longitudinal Adoption Curves**: 48-month pooled trajectory comparing Incentive States vs Comparison States vs National Average.
+- **Filterable State Leaderboard**: Search, sort, and filter across all 36 Indian states and UTs.
+- **Econometric Policy Impact**: Difference-in-Differences and Two-Way Fixed Effects evaluation with key causal caveats.
 
 ---
 
