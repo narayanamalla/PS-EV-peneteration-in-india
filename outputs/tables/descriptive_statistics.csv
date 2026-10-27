@@ -1,0 +1,17 @@
+category,state,financial_year,total_2w_registrations,electric_2w_registrations,ev_penetration_pct,metric
+National,All India,FY2020-21,13824531.0,46917.0,0.3393749849452397,Pooled national penetration
+National,All India,FY2021-22,14087158.0,265539.0,1.8849721143185871,Pooled national penetration
+National,All India,FY2022-23,16655931.0,761842.0,4.57399829526191,Pooled national penetration
+National,All India,FY2023-24,18217742.0,1000580.0,5.492338183294065,Pooled national penetration
+Incentive states,Incentive states,FY2020-21,,,0.4434890149284328,Pooled group penetration
+Incentive states,Incentive states,FY2021-22,,,2.7178583190857246,Pooled group penetration
+Incentive states,Incentive states,FY2022-23,,,6.5639906032006685,Pooled group penetration
+Incentive states,Incentive states,FY2023-24,,,7.2420571503715045,Pooled group penetration
+Comparison states,Comparison states,FY2020-21,,,0.2642306697878832,Pooled group penetration
+Comparison states,Comparison states,FY2021-22,,,1.294855869603342,Pooled group penetration
+Comparison states,Comparison states,FY2022-23,,,3.104894337141189,Pooled group penetration
+Comparison states,Comparison states,FY2023-24,,,4.221335011305464,Pooled group penetration
+All states,All states,FY2020-21,,,0.3393749849452397,Pooled group penetration
+All states,All states,FY2021-22,,,1.8849721143185871,Pooled group penetration
+All states,All states,FY2022-23,,,4.57399829526191,Pooled group penetration
+All states,All states,FY2023-24,,,5.492338183294065,Pooled group penetration
